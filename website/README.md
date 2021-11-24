@@ -1,0 +1,1 @@
+Documentation site for [vue-simple-package](https://tsbbjs.github.io/vue-simple-package).
